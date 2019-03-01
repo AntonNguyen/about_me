@@ -55,8 +55,6 @@ ddddoc'.     ...........  .',;;::ccccccc:::;;:::cccccccc:::;;,,,,;;cdddddddddddd
 
 I enjoy personality tests and learning about myself, and yes I do understand that these sorts of tests aren't terribly rigorous, but they do provide thinking points:
 
-https://www.16personalities.com/enfp-personality
-
 **Myers-Briggs** - (I,E)NFP - So I'm either a [Campaigner](https://www.16personalities.com/enfp-personality) or a [Mediator](https://www.16personalities.com/infp-personality), depending on the situation.
 
 **DISC** - [(Counselor)](https://www.discprofiles4u.com/blog/2012/disc-classic-profile-counselor-pattern-8-of-16/)
