@@ -55,6 +55,9 @@ ddddoc'.     ...........  .',;;::ccccccc:::;;:::cccccccc:::;;,,,,;;cdddddddddddd
 
 I enjoy personality tests and learning about myself, and yes I do understand that these sorts of tests aren't terribly rigorous, but they do provide thinking points:
 
+https://www.16personalities.com/enfp-personality
+
+**Myers-Briggs** - (I,E)NFP - So I'm either a [Campaigner](https://www.16personalities.com/enfp-personality) or a [Mediator](https://www.16personalities.com/infp-personality), depending on the situation.
 
 **DISC** - [(Counselor)](https://www.discprofiles4u.com/blog/2012/disc-classic-profile-counselor-pattern-8-of-16/)
 > Counselor pattern embrace others with their warmth, empathy, and understanding. They are long term relationship builders.  They are good listeners, and effective at problem solving. Counselors use an indirect approach when dealing with others.  They tend to put people first, by providing recognition to others, – they attribute less importance to task accomplishment.  They’re apt to be overly-tolerant with others. When in a position of authority and responsibility, Counselors like to be appreciated, for their contribution. They are calm, sincere and loyal.
