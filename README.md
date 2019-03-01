@@ -57,6 +57,10 @@ I enjoy personality tests and learning about myself, and yes I do understand tha
 
 
 **DISC** - [(Counselor)](https://www.discprofiles4u.com/blog/2012/disc-classic-profile-counselor-pattern-8-of-16/)
+> Counselor pattern embrace others with their warmth, empathy, and understanding. They are long term relationship builders.  They are good listeners, and effective at problem solving. Counselors use an indirect approach when dealing with others.  They tend to put people first, by providing recognition to others, – they attribute less importance to task accomplishment.  They’re apt to be overly-tolerant with others. When in a position of authority and responsibility, Counselors like to be appreciated, for their contribution. They are calm, sincere and loyal.
+
+I think this a good reflection of how I operate on teams. My biggest focus is typically on "how can I help my team accomplish my goals?". That's why I usually end up playing the role of "glue" on most of my teams. 
+
 
 **Strengths Finder** -
   1. Relator - _People exceptionally talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal._
