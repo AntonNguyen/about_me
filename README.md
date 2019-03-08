@@ -69,3 +69,11 @@ I think this a good reflection of how I operate on teams. My biggest focus is ty
   3. Positivity - _People exceptionally talented in the Positivity theme have contagious enthusiasm. They are upbeat and can get others excited about what they are going to do._
   4. Self-Assurance - _People exceptionally talented in the Self-Assurance theme feel confident in their ability to take risks and manage their own lives. They have an inner compass that gives them certainty in their decisions._
   5. Ideation - _People exceptionally talented in the Ideation theme are fascinated by ideas. They are able to find connections between seemingly disparate phenomena._
+
+## Short Bio
+Hailing from the cold northern plains of Canada, Anton had nothing better to do while growing up then basking in the warmth of his computers. His passion for computers was so fervent that despite the great dot com bubble crash of the early 2000's, Anton decided to enroll at the University of Toronto for computer science anyway. Following graduation, Anton entered the workforce, where he has spent the last few years navigating the harrowing twists and turns of software development, weathering the IT world with pride and gumption.
+
+## Fun facts
+- Anton once finished 2nd place at a prestigious magic tournament, where there were only 2 participants.
+- If it wasn't for that pesky Canadian food guide, Anton's diet would consist primarily of cheese.
+- In 2018, Anton managed to convince [PyCon Canada](https://www.youtube.com/watch?v=YiHOXwbq49w) to let him give a 45 minute talk on emails and Seinfeld.
